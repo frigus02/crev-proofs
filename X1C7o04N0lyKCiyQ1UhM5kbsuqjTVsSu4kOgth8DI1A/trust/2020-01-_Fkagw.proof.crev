@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-26T00:13:46.729328600+00:00"
+from:
+  id-type: crev
+  id: X1C7o04N0lyKCiyQ1UhM5kbsuqjTVsSu4kOgth8DI1A
+  url: "https://github.com/frigus02/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+yJXDCYtNAnGMhsE9xQwXpcfkK78yt1oD4SGEIoxxHqsHZOHG_7nDXdZd_VsXq1uOvP09La41lXC8iNPsSDfjDQ
+----- END CREV PROOF -----
+
